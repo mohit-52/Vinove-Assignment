@@ -1,6 +1,6 @@
 # vinove_assignemnt
 
-Assignment for Vinove
+Assignment for Vinove Company
 
 ## Getting Started
 
